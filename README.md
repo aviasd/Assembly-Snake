@@ -17,13 +17,20 @@ How to use:
 13. You will control the snake with the "Keyboard and Display MMIO Simulator" window
 
 Controls:
+
 i - up
+
 k - down
+
 j - left
+
 l - right
 
+
 p - pause
+
 q - quit
+
 r - reset
 
 (Working only if you are in Play mode. 
