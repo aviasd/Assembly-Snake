@@ -34,4 +34,4 @@ q - quit
 r - reset
 
 (Working only if you are in Play mode. 
-If you are in Game Over mode, no keys can be pressed and you need to run the game again)
+If you are in Game Over mode, the controls will not work and you will need to run the game again)
