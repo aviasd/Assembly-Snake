@@ -18,20 +18,16 @@ How to use:
 
 Controls:
 
-i - up
+| Key | Control|
+|:---:|:------:|
+| i   | up     |
+| k   | down   | 
+| j   | left   |
+| l   | right  |
+| p   | pause  |
+| q   | quit   |
+| r   | reset  | 
 
-k - down
-
-j - left
-
-l - right
-
-
-p - pause
-
-q - quit
-
-r - reset
 
 (Working only if you are in Play mode. 
 If you are in Game Over mode, the controls will not work and you will need to run the game again)
