@@ -3,7 +3,7 @@ Snake game in MIPS Assembly
 
 How to use:
 1. Download the "Mars4_5A.jar" file and open it (It is the [MARS MIPS simulator](http://courses.missouristate.edu/KenVollmar/mars/download.htm) with some changes. The old one stopped working after a few minutes of playing
-2. Open the "snakeV3.asm" file from the simulator and activate it
+2. Open the "snakeV3.asm" file from the simulator
 3. In the main window click on "Tools" > "Bitmap Display"
 4. In the "Bitmap Display" window choose 16px for "Unit Width in Pixels" and "Unit Height in Pixels"
 5. In the "Bitmap Display" window choose 512px for "Display Width in Pixels" and "Display Height in Pixels"
