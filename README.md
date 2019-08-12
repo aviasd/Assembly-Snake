@@ -1,5 +1,5 @@
 # Assembly-Snake
-Snake game in MIPS Assembly 
+Snake Game in MIPS Assembly 
 
 How to use:
 1. Download the "Mars4_5A.jar" file and open it (It is the [MARS MIPS simulator](http://courses.missouristate.edu/KenVollmar/mars/download.htm) with some changes. The old one stopped working after a few minutes of playing
