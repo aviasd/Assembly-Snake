@@ -1,7 +1,7 @@
 # Assembly-Snake
 Snake Game in MIPS Assembly 
 
-How to use:
+#### How to use:
 1. Download the "Mars4_5A.jar" file and open it (It is the [MARS MIPS simulator](http://courses.missouristate.edu/KenVollmar/mars/download.htm) with some changes. The old one stopped working after a few minutes of playing
 2. Open the "snakeV3.asm" file from the simulator
 3. In the main window click on "Tools" > "Bitmap Display"
@@ -16,7 +16,7 @@ How to use:
 12. You will see a white board with a red snake in the middle (on the "Bitmap Display" window)
 13. You will control the snake with the "Keyboard and Display MMIO Simulator" window
 
-Controls:
+#### Controls:
 
 | Key | Control|
 |:---:|:------:|
